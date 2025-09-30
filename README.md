@@ -1,4 +1,4 @@
-# 📖 Recipe Book (PWA)
+# 📖 Recipe Book (PWA) - Trần Nguyễn Ngọc Bảo - 22GIT
 
 ## Giới thiệu
 
@@ -54,3 +54,7 @@ npm run build
 ```bash
 npm run preview
 ```
+
+## Link PWA
+
+- https://recipebookpwa.onrender.com/
