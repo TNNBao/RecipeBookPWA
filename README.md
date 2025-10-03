@@ -27,8 +27,8 @@
 ### 1. Clone project từ GitHub
 
 ```bash
-git clone https://github.com/your-username/recipe-book-pwa.git
-cd recipe-book-pwa
+https://github.com/TNNBao/RecipeBookPWA.git
+cd RecipeBookPWA
 ```
 
 ### 2. Cài đặt dependencies
